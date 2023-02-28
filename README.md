@@ -1,6 +1,14 @@
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/785315009449951232/785328332362874908/a_28b3ebb7f0a321dc1ef600e33120b7c3.gif" />
-<h3 align="right">Contact</h3>
-### a
+<iframe
+    src="https://cdn.discordapp.com/attachments/981357776880156672/988511086212972614/anime-couple.gif"
+    allow="autoplay; encrypted-media"
+    width="450"
+    height="300"
+    frameborder="0"
+
+  ></iframe>
+ <p> Gabriel and Clara Bffs ♡</p>
+  <a href="https://www.youtube.com/watch?v=CD_tD26E7k0" style="color:  #FFFFFF ">私たちのお気に入りの曲</a>
+</html>
 
 <h3 align="center">Меню</h3>
 <p align="center">
