@@ -1,5 +1,5 @@
 <h3 align="center">Мои языки</h3>
-<p align="center"><img src="[https://pixabay.com/pt/gifs/brasil-bandeira-aceno-golpe-pano-267](https://cdn.discordapp.com/attachments/1078594674635313172/1079972444649029632/18-24-53-297_512.gif)" title="Brasil" alt="code" width="40" height="40"/><img src="https://gifs.eco.br/imagens-e-gifs-da-bandeira-dos-estados-unidos" title="Eua" alt="github" width="40" height="40"/>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1078594674635313172/1079972444649029632/18-24-53-297_512.gif)"title="Brasil" alt="code" width="40" height="40"/><img src="https://gifs.eco.br/imagens-e-gifs-da-bandeira-dos-estados-unidos" title="Eua" alt="github" width="40" height="40"/>
 
 Стрелка JavaScript C/C++ Python C# and Pentest
 
