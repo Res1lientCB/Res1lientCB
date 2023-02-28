@@ -1,5 +1,5 @@
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/785315009449951232/785328332362874908/a_28b3ebb7f0a321dc1ef600e33120b7c3.gif" />
-<h3 align="center">Contact</h3>
+<h3 align="left">Contact</h3>
 ### a
 
 <h3 align="center">Меню</h3>
